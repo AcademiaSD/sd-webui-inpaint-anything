@@ -1,3 +1,5 @@
+Includes the Gradio 4 patch by BreakNecks @https://gist.github.com/BreakNecks/7a98470d4ea30fd1f272131d9f1ee63c
+
 # Inpaint Anything for Stable Diffusion Web UI
 
 Inpaint Anything extension performs stable diffusion inpainting on a browser UI using any mask selected from the output of [Segment Anything](https://github.com/facebookresearch/segment-anything).
