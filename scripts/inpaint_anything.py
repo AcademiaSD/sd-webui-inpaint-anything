@@ -1866,7 +1866,7 @@ def create_ui_tabs():
                         elem_id="ia_sam_image",
                         type="numpy",
                         brush=segment_anything_brush,
-                        height=480,
+                        
                     )
                 with gr.Row():
                     with gr.Column():
@@ -1893,7 +1893,7 @@ def create_ui_tabs():
                         elem_id="ia_sel_mask",
                         type="numpy",
                         brush=selected_mask_brush,
-                        height=480,
+                        
                     )
                 with gr.Row():
                     with gr.Column():
