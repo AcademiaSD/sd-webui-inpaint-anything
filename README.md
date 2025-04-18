@@ -1,4 +1,4 @@
-Includes the Gradio 4 patch by BreakNecks @https://gist.github.com/BreakNecks/7a98470d4ea30fd1f272131d9f1ee63c
+Includes the Gradio 4 patch by @BreakNecks https://gist.github.com/BreakNecks/7a98470d4ea30fd1f272131d9f1ee63c
 
 # Inpaint Anything for Stable Diffusion Web UI
 
